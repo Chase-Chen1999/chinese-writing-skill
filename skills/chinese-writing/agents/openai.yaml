@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文写作与润色"
+  short_description: "中文起草、润色与去AI腔，保留事实、原意和作者自己的语气"
+  default_prompt: "请用$chinese-writing润色下面的中文，保留事实、数字和语气，直接给出成稿。"
