@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+<title id="title">中文写作与润色：写得自然，保留原意。</title>
+<desc id="desc">中文写作技能的分享封面，包含起草、润色、去AI腔的用途和一组精简邮件示例。</desc>
+<rect width="1280" height="640" fill="#F7F4ED"/>
+<rect x="70" y="72" width="5" height="29" fill="#B74735"/>
+<text x="90" y="97" fill="#242622" font-family="Hiragino Sans GB, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600">中文写作与润色</text>
+<text x="64" y="273" fill="#242622" font-family="Songti SC, Noto Serif CJK SC, SimSun, serif" font-size="82" font-weight="700">写得自然，</text>
+<text x="64" y="375" fill="#B74735" font-family="Songti SC, Noto Serif CJK SC, SimSun, serif" font-size="82" font-weight="700">保留原意。</text>
+<text x="72" y="447" fill="#71736A" font-family="Hiragino Sans GB, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26" font-weight="400">起草 · 润色 · 去AI腔</text>
+<rect x="661" y="147" width="549" height="355" fill="#FFFDF8"/>
+<rect x="661" y="147" width="549" height="3" fill="#242622"/>
+<text x="691" y="197" fill="#71736A" font-family="Hiragino Sans GB, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="400">原稿</text>
+<text x="691" y="241" fill="#71736A" font-family="Hiragino Sans GB, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="400">为切实推动项目协同工作的高效开展，</text>
+<text x="691" y="282" fill="#71736A" font-family="Hiragino Sans GB, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="400">现将修订后的方案同步给您。</text>
+<line x1="691" y1="313" x2="1180" y2="313" stroke="#D8D6CD" stroke-width="1"/>
+<text x="691" y="354" fill="#B74735" font-family="Hiragino Sans GB, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="19" font-weight="400">改稿</text>
+<text x="691" y="404" fill="#242622" font-family="Hiragino Sans GB, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="33" font-weight="600">修订后的方案发您了。</text>
+<line x1="691" y1="424" x2="1021" y2="424" stroke="#B74735" stroke-width="2"/>
+<text x="691" y="472" fill="#71736A" font-family="Hiragino Sans GB, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23" font-weight="400">少些空话，留下有用的信息</text>
+<line x1="70" y1="560" x2="1210" y2="560" stroke="#D8D6CD" stroke-width="1"/>
+<text x="71" y="604" fill="#242622" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400">chinese-writing-skill</text>
+<text x="986" y="604" fill="#71736A" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400">OPEN SOURCE · MIT</text>
+</svg>
